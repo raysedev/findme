@@ -19,7 +19,11 @@ This is a simple script based on WonderHowTo tutorial for using Shodan to automa
 
 # Installation
 
-To install the script you need to open a terminal and type in "git clone https://github.com/raysedev/findme", then you should have a folder named "findme" at the root location. After you got the folder get inside and open every file with ".py" extention and change the "YourAPIKeyHere" with your actual Shodan API.
+To install the script you need to open a terminal and type in "git clone https://github.com/raysedev/findme", then you should have a folder named "findme" at the root location. After you got the folder get inside and open every file with ".py" extention and change the "Your API Key Here" with your actual Shodan API.
+
+# Help
+
+To start the script open a terminal and cd into the folder that contains the script and type in "python findme.py". To see the commands type in "?".
 
 # More
 
