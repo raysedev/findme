@@ -51,7 +51,7 @@ while True:
 			if question == "y":
 				print "Wait a moment..."
 				os.system("python findmeiplog.py >> log.txt")
-				pingquestion = raw_input("Do you want me to ping the IP's from the log you just made? Y/n")
+				pingquestion = raw_input("Do you want me to ping the IP's from the log you just made? Y/n: ")
 				if pingquestion == "y":
 					os.system("chmod +x ping.sh")
 					os.system("./ping.sh")
