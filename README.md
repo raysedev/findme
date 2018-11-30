@@ -10,7 +10,7 @@ This is a simple script based on WonderHowTo tutorial for using Shodan to automa
 
 # Requirments
 
-1. Python 2.7 or newer
+1. Python 2.7
 2. Python PIP
 3. Shodan PIP
 4. Shodan Account
